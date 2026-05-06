@@ -1,3 +1,3 @@
 # CS617
 
-Live chart: [https://avanith12.github.io/CS617/d3plusexample.html](https://avanith12.github.io/CS617/d3plusexample.html)
+[Live Chart](https://avanith12.github.io/CS617/d3plusexample.html)
